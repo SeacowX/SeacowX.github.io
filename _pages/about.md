@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>seacow.xu@gmail.com</p>
-    <p>Strand campus, King's College London</p>
+    <p>seacow.xu[at]gmail.com</p>
+    <br/>
+    <p>Strand campus, KCL</p>
     <p>30 Aldwych</p>
     <p>London, WC2B 4BG</p>
 
