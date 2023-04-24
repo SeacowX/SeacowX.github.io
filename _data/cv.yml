@@ -11,23 +11,23 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D. in Computer Science
       institution: King's College London
       year: 2027 (Expected)
       description:
         - Doing research in Natural Language Processing with Professor Yulan He 
         - Funded by the EPSRC ICASE scholarship with Huawei London Research Centre
-    - title: Master of Science in Engineering
+    - title: Master of Science in Engineering in Data Science
       institution: University of Pennsylvania
       year: 2023
       description:
-        - Data Science Major 
+        - Data Science with an emphasis on Machine Learning and Deep Learning
         - GPA 4.0/4.0 
-    - title: Bachelor of Science
+    - title: Bachelor of Science in Statistics
       institution: University of California, Davis
       year: 2020
       description:
-        - Statistical Data Science Major 
+        - Statistical Data Science Track 
         - Major GPA 3.94/4.0 
 
 - title: Experience
