@@ -2,25 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Department of Informatics, King's College London</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Strand campus, King's College London</p>
+    <p>30 Aldwych</p>
+    <p>London, WC2B 4BG</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! My name is Hainiu Xu (许海牛). I am a first year PhD student in the Department of Informatics at King's College Londond studying Natural Language Processing (NLP). I am fortuante to be advised by Professor [Yulan He](https://sites.google.com/view/yulanhe/home?authuser=0). Before KCL, I was a Master's student at the University of Pennsylvania studying Data Science, where I worked on NLP under the supervision of Professor [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/index.html). I obtained by Bachelor's degree at the University of California, Davis with a major in Statistical Data Science. During my undergraduate study, I worked extensively with Professor [Jane-Ling Wang](https://anson.ucdavis.edu/~wang/aboutme.html) on functional data analysis (FDA).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interest primarily lies in _Machine Reasoning_ and _Narrative Understanding_. My goal is to help machines to understand and reason about events with characteristics. I am best reached by email. Please feel free to contact me about my research or to inquire for potential collaboration. I am also happy to take questions about PhD application and doing research in NLP.
