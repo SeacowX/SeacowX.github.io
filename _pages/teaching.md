@@ -19,8 +19,11 @@ nav_order: 5
 #### CIS5220: Deep Learning
 - Graduate-level course on deep learning methods (Optimization + CV + NLP + RL).
 
+
 ---
 ---
+
+
 ## University of California, Davis
 ---
 
