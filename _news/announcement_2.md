@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: :tada: I have decided to accept the PhD offer from King's College London. I will be working on _"Character Centric Narrative Understanding"_ with Professor Yulan He starting this fall!
+:tada: :tada: I have decided to accept the PhD offer from King's College London. I will be working on _"Character-Centric Narrative Understanding"_ with Professor Yulan He starting this fall!
