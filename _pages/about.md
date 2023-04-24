@@ -21,5 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! My name is Hainiu Xu. I am a first year PhD student in the Department of Informatics at King's College Londond studying Natural Language Processing (NLP). I am fortuante to be advised by Professor [Yulan He](https://sites.google.com/view/yulanhe/home?authuser=0). Before KCL, I was a Master's student at the University of Pennsylvania studying Data Science, where I worked on NLP under the supervision of Professor [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/index.html). I obtained by Bachelor's degree at the University of California, Davis with a major in Statistical Data Science. During my undergraduate study, I worked extensively with Professor [Jane-Ling Wang](https://anson.ucdavis.edu/~wang/aboutme.html) on functional data analysis (FDA).
 
-My research interest primarily lies in _Machine Reasoning_ and _Narrative Understanding_. My goal is to help machines to understand and reason about events with characteristics. I am best reached by email. Please feel free to contact me about my research or to inquire for potential collaboration. I am also happy to take questions about PhD application and doing research in NLP.
+My research interest primarily lies in _Machine Reasoning_ and _Narrative Understanding_. My goal is to help machines to understand and reason about events with personalities. 
+
+I am can be best reached by email. Please feel free to contact me about my research or to inquire for potential collaboration. I am also happy to take questions about PhD application and doing research in NLP.
 
