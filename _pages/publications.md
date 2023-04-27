@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: * represents equal contribution
+description: publications by categories in reversed chronological order. "*" represents equal contribution.
 years: [2023]
 nav: true
 nav_order: 1
