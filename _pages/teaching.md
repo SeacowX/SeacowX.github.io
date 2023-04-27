@@ -18,7 +18,7 @@ nav_order: 5
 
 ---
 
-#### CIS5220: Deep Learning (TA, Lecture)
+#### CIS5220: Deep Learning (TA, Lecturer)
 - Graduate-level course on deep learning methods (Optimization + CV + NLP + RL).
 <br/><br/>
 <br/><br/>

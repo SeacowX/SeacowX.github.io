@@ -1,6 +1,5 @@
 ---
 ---
-
 @inproceedings{zhang-etal-2023-causal,
   title = "Causal Reasoning of Entities and Events in Procedural Texts",
   author = "Zhang, Li  and
@@ -35,6 +34,35 @@
   website={https://www.youtube.com/watch?v=myru-fozVWI}
 }
 
+@article{hainiu2023thesis,
+  title={Fine-grained and Coarse-grained Causal Reasoning in Procedural Texts},
+  author={Xu, Hainiu and Callison-Burch, Chris},
+  journal={School of Engineering and Applied Sciences, University of Pennsylvania},
+  year={2023},
+  abstract = "The ability to make causal inferences is inherent to humans and substantial to our intelli- 
+gence and civilization. Yet, such a crucial capability is lacking even in the state-of-the-art 
+Large Language Models (LLMs). To pave the pathway toward Artificial General Intelli- 
+gence, granting machines a similar capability of conducting causal inferences is an indis- 
+pensable building block. Causalities come in different granularity. At a coarse-grained level, 
+causal relations exist between events. At a fine-grained level, causal relations exist between 
+events and participating entities. From an event-centric perspective, an intelligent agent 
+shall be able to infer the causal effects that one event could bring to related entities as 
+well as other events. For instance, the event of heating up a pan will cause the attribute, 
+temperature, of the participating entity, pan, to rise. Being able to comprehend the causal 
+effect of events at both a coarse-grained and fine-grained level will bring significant ben- 
+efits to downstream tasks such as commonsense reasoning, multi-hop question answering, 
+planning, and so on. My thesis research focused on constructing benchmarks and building 
+learning systems that can (1) discern entity state changes by inferring their causal relation- 
+ship with events; (2) estimate the likelihood of an event happening by deducing its causal 
+relation with context entities; (3) mitigate reporting bias in languages by leveraging external 
+modalities such as vision (video) to provide extra information on participating entities; and 
+(4) constructing dynamic causal diagrams based on fine-grained entity state information in 
+procedural texts.",
+  bibtex_show={true},
+  preview={thesis.png},
+  website={https://seacowx.github.io/assets/pdf/master-thesis.pdf}
+}
+
 @misc{zhang2023exploring,
       title={Exploring the Curious Case of Code Prompts}, 
       author={Li Zhang and Liam Dugan and Hainiu Xu and Chris Callison-Burch},
@@ -43,6 +71,7 @@
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       preview={codex.jpg},
+      selected={true},
       bibtex_show={true},
       abstract= "Recent work has shown that prompting language models with code-like representations of natural language leads to performance improvements on structured reasoning tasks. However, such tasks comprise only a small subset of all natural language tasks. In our work, we seek to answer whether or not code-prompting is the preferred way of interacting with language models in general. We compare code and text prompts across three popular GPT models (davinci, code-davinci-002, and text-davinci-002) on a broader selection of tasks (e.g., QA, sentiment, summarization) and find that with few exceptions, code prompts do not consistently outperform text prompts. Furthermore, we show that the style of code prompt has a large effect on performance for some but not all tasks and that fine-tuning on text instructions leads to better relative performance of code prompts.",
       code={https://github.com/zharry29/codex_vs_gpt3}
