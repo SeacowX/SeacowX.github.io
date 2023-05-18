@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: :tada: First paper accepted to Findings of EACL 2023 :smile:
+:tada: :tada: First paper accepted to Findings of EACL 2023 :smile: 
