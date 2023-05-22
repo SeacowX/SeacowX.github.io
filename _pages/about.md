@@ -12,7 +12,8 @@ profile:
     <p>seacow.xu[at]gmail.com</p>
     <br/>
     <p>King's College London</p>
-    <p>Bush House, Strand Campus</p>
+    <p>Bush House</p>
+    <p>Strand Campus</p>
     <p>30 Aldwych</p>
     <p>London, WC2B 4BG</p>
 
