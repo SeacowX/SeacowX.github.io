@@ -11,7 +11,6 @@ profile:
   address: >
     <p>seacow.xu[at]gmail.com</p>
     <br/>
-    <p>Department of Informatics</p>
     <p>King's College London</p>
     <p>Bush House, Strand Campus</p>
     <p>30 Aldwych</p>
