@@ -6,7 +6,7 @@ permalink: / subtitle: <a href='#'>Department of Informatics, King's College Lon
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>seacow.xu[at]gmail.com</p>
     <br/>
@@ -17,7 +17,7 @@ profile:
     <p>London, WC2B 4BG</p>
 
 news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -28,4 +28,4 @@ My research interest primarily lies in _Machine Reasoning_ and _Narrative Unders
 
 I can be best reached by email. Please feel free to contact me about my research or to inquire for potential collaboration. I am also happy to take questions about PhD application and doing research in NLP.
 
-<!-- Link to my significant other: [youcanseee.github.io](https://youcanseee.github.io/) -->
+Link to my significant other: [youcanseee.github.io](https://youcanseee.github.io/)
