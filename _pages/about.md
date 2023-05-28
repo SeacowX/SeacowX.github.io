@@ -1,7 +1,8 @@
 ---
 layout: about
 title: about
-permalink: / subtitle: <a href='#'>Department of Informatics, King's College London</a>
+permalink: / 
+subtitle: <a href='#'>Department of Informatics, King's College London</a>
 
 profile:
   align: right
