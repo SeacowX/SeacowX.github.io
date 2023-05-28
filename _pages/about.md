@@ -28,5 +28,4 @@ My research interest primarily lies in _Machine Reasoning_ and _Narrative Unders
 
 I can be best reached by email. Please feel free to contact me about my research or to inquire for potential collaboration. I am also happy to take questions about PhD application and doing research in NLP.
 
-Link to my significant other: [youcanseee.github.io](https://youcanseee.github.io/)
-
+<!-- Link to my significant other: [youcanseee.github.io](https://youcanseee.github.io/) -->
