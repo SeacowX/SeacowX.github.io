@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Hainiu Xu
-    - name: Date of Birth
-      value: 12nd Feburary 1997
+    - name: Hometown
+      value: Jinan, Shandong Province, China
     - name: Languages
       value: English, Chinese (Mandarin)
 
@@ -90,6 +90,12 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - Penn Engineering's Outstanding Research Award for Master's Student
+    - year: 2023
+      items:
+        - Runner-Up Best Thesis Award for Master's Thesis in Data Science
     - year: 2020
       items: 
         - Highest Honor in Statistics 
